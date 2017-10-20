@@ -1,0 +1,14 @@
+./.Trash/desktopls.txt
+./.Trash/desktops.txt
+./.Trash/top.txt
+./Desktop/MyGit/D3SysExam/commands/desktopls.txt
+./Desktop/MyGit/D3SysExam/commands/img.txt
+./htdocs/commands/bottom.txt
+./htdocs/commands/desktopls.txt
+./htdocs/commands/find.txt
+./htdocs/commands/img.txt
+./htdocs/commands/top.txt
+./Library/Application Support/Avid/AppManager/Config.txt
+./Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000001-csi.txt
